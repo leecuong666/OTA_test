@@ -1,9 +1,7 @@
 {
-  "project": "Awesome App",
-  "team": [
-    { "name": "Cuong", "role": "Frontend" },
-    { "name": "Linh", "role": "Backend" },
-    { "name": "Nam", "role": "UI/UX" }
-  ],
-  "techStack": ["React", "Node.js", "MongoDB"]
+  "version": "0.0.1",
+  "allowOTAUpdate": true,
+  "newFeatures": ["test1"],
+  "bugFixed": ["test2"],
+  "improvedFeatures": ["test3"]
 }
