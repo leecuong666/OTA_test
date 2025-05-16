@@ -1,3 +1,9 @@
 {
-  "test": "my name"
+  "project": "Awesome App",
+  "team": [
+    { "name": "Cuong", "role": "Frontend" },
+    { "name": "Linh", "role": "Backend" },
+    { "name": "Nam", "role": "UI/UX" }
+  ],
+  "techStack": ["React", "Node.js", "MongoDB"]
 }
