@@ -1,0 +1,7 @@
+{
+  "version": "0.0.2",
+  "allowOTAUpdate": true,
+  "newFeatures": ["test1"],
+  "bugFixed": ["test2"],
+  "improvedFeatures": ["test3"]
+}
