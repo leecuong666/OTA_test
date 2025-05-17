@@ -1,7 +1,0 @@
-{
-  "version": "0.0.2",
-  "allowOTAUpdate": true,
-  "newFeatures": ["Thêm tính năng 1", "Thêm tính năng mới 2"],
-  "bugFixed": ["Sửa lỗi tính năng 1"],
-  "improvedFeatures": ["Cải thiện tính năng mới 1"]
-}
